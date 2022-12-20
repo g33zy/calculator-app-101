@@ -3,3 +3,8 @@ body {
   width: 50%;
   height: 75%;
 }
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+	appearance: none;
+}
